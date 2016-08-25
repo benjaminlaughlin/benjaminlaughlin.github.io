@@ -1,3 +1,7 @@
+---
+permalink: /research/
+---
+
 **Working Papers**
 
 Refugee Cascades and the Spatial Spillover of Fleeing in Civil War
