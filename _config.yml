@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Benjamin B. Laughlin"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I am a Ph.D. student at the University of Rochester."
+  location         : 
   email            : "benjamin.laughlin@rochester.edu"
   uri              :
   bitbucket        :
