@@ -1,6 +1,7 @@
 ---
 permalink: /research/
-layout: default
+layout: single
+type: pages
 ---
 
 **Working Papers**
