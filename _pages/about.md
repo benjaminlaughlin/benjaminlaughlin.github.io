@@ -1,5 +1,7 @@
 ---
 permalink: /
+layout: single
+type: pages
 ---
 
 <h1 class="page-title">About</h1>
