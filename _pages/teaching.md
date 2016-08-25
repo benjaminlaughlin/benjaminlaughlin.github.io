@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Teaching
-weight: 1
-published: true
+permalink: /research/
+layout: single
+type: pages
 ---
 
 ## Teaching Assistant
