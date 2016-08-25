@@ -13,7 +13,7 @@ type: pages
 
 <h2>CV</h2>
 
-<p>Here&#39;s my <a href="../Articles/Christensen_CV.pdf">Current CV</a>.</p>
+<p>Here&#39;s my <a href="CV.pdf">Current CV</a>.</p>
 
 <h2>Contact Information</h2>
 
