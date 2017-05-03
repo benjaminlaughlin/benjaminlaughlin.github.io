@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: single
+layout: splash
 type: pages
 ---
 
