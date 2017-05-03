@@ -7,10 +7,10 @@ type: pages
 <h1 class="page-title">About</h1>
 
 <p class="message">
-  I am a Ph.D. Candidate in Political Science at the University of Rochester. During the 2016-2017 year I will be a Postdoctoral Researcher at the <a href="global.upenn.edu/perryworldhouse">Perry World House</a> at the University of Pennsylvania. 
+  I am a Ph.D. Candidate in Political Science at the University of Rochester. During the 2016-2017 year I will be a Postdoctoral Researcher at the <a href="www.global.upenn.edu/perryworldhouse">Perry World House</a> at the University of Pennsylvania. 
 </p>
 <p class="message">
-  I study the political economy of conflict and development. My research focuses on the causes of refugee crises, political violence , the politics of immigration, and the formation of national identity. I have conducted fieldwork in several Eastern European countries.
+  I study the political economy of conflict and development. My research focuses on the causes of refugee crises, political violence, the politics of immigration, and the formation of national identity. I have conducted fieldwork in several Eastern European countries.
 </p>
 
 
