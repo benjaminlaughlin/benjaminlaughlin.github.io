@@ -14,7 +14,8 @@ Refugee crises repeatedly surprise the international community with their size a
 
 ## Do Good Fences Make Good Neighbors? The Impact of Border Fence Expansion on the Mexican Drug War
 
-## The Effect of Exposure to Immigrants on Anti-immigrant Sentiment (with [Barbara Maria Piotrowska](https://sites.google.com/site/bmapiotrowska/))
+## The Effect of Exposure to Immigrants on Anti-immigrant Sentiment 
+### (with [Barbara Maria Piotrowska](https://sites.google.com/site/bmapiotrowska/))
 
 
 # Work in Progress
