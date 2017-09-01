@@ -2,6 +2,7 @@
 permalink: /teaching/
 layout: single
 type: pages
+title: Teaching
 ---
 
 ## Teaching Assistant
