@@ -1,8 +1,10 @@
 ---
 permalink: /research/
 layout: single
+title: Research
 type: pages
 ---
+
 # Working Papers
 
 ## Border Fences and the Mexican Drug War
