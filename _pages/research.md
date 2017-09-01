@@ -4,8 +4,8 @@ layout: single
 type: pages
 ---
 
-# Working Papers
-## Border Fences and the Mexican Drug War
+## Working Papers
+### Border Fences and the Mexican Drug War
 The Secure Fence Act resulted in the construction of 649 miles of fencing along the US-Mexico border. At the same time, violence in the Mexican drug war spiked as drug cartels fought to control territory. I hypothesize that construction of the border fence caused fighting between drug cartels by changing the value of territory for smuggling, undermining agreements between cartels. I use novel fine-grained data on violence from death certificates, engineering maps of the border fence, and a difference in differences research design to show that construction of the fence caused at least $3,000$ additional deaths in the border region. The entire effect of border fence construction is due to escalation of violence in areas where smuggling routes were not blocked by the new border fence—territories that became relatively more valuable for smuggling.
 
 ## How Information Cascades Cause Refugee Crises: Evidence from Kosovo
