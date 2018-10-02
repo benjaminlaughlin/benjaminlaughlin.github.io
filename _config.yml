@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Benjamin Laughlin"
-  avatar           : "images/bio-photo.jpg"
+  avatar           : bio-photo.jpg
   bio              : "PhD Candidate at the University of Rochester."
   location         : "University of Rochester"
   email            : "benjamin.laughlin@rochester.edu"
