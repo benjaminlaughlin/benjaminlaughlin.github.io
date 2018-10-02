@@ -7,10 +7,10 @@ type: pages
 <h1 class="page-title">About</h1>
 
 <p class="message">
-  I am a Predoctoral Fellow at <a href="https://global.upenn.edu/perryworldhouse">Perry World House</a> at the University of Pennsylvania and a Ph.D. Candidate in Political Science at the <a href="http://www.sas.rochester.edu/psc/new-site/">University of Rochester</a>. 
+  I am a Predoctoral Fellow at <a href="https://global.upenn.edu/perryworldhouse">Perry World House</a> at the University of Pennsylvania and a PhD Candidate in Political Science at the <a href="http://www.sas.rochester.edu/psc/new-site/">University of Rochester</a>. 
 </p>
 <p class="message">
-  I study the political economy of conflict and development. My research focuses on the causes of refugee crises, political violence, the politics of immigration, and the formation of national identity. I have conducted fieldwork in several Eastern European countries.
+I study the political economy of conflict in the developing world. My work largely focuses on the behavior of non-state actors and civilians during conflict, examining why groups fight over territory and how refugees decide to flee. I leverage novel micro-level data, often collected during fieldwork, and employ causal inference methods in order to explore the microfoundations of conflict. Motivated by the importance of identity in mitigating or escalating conflict, my work also examines the consequences of interethnic contact and the formation of national identity.
 </p>
 
 
