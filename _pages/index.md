@@ -1,6 +1,7 @@
 ---
 permalink: /
 layout: single
+title: "Benjamin Laughlin"
 type: pages
 ---
 
