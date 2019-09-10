@@ -20,5 +20,5 @@ I study the political economy of conflict in the developing world. My work large
 
 <h2>Contact Information</h2>
 
-<p>benjamin.laughlin@rochester.edu</p>
+<p>benjamin.laughlin@nyu.edu</p>
 
