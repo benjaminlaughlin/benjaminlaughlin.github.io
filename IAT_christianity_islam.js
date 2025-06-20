@@ -50,7 +50,6 @@ var negWords = API.shuffle([
                     stimulusMedia : [ //Stimuli content as PIP's media objects
             {image: 'islam.jpg'},
                        {word: 'Mosque'},
-			    {word: 'Bible'},
 			    {word: 'Koran'},
 			    {word: 'Muslim'},
 			    {word: 'Islam'}	
